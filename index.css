@@ -1,0 +1,86 @@
+* {
+    text-align: center;
+}
+
+nav {
+    border-radius: 10%;
+    padding: 10px 25px;
+    color: white;
+    
+}
+
+
+.links {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: 10px;
+}
+
+.nav1, .nav4 {
+   background-color: #FF764E;
+}
+
+.nav2, .nav5 {
+    background-color: #5ED3EB ;
+}
+
+.nav3, .nav6 {
+    background-color: #FFCD69;
+}
+
+.toptext, h1 {
+    font-family: 'Chelsea Market', cursive;
+}
+
+.textbody {
+    font-family: 'Roboto Mono', monospace;
+}
+
+.facts { 
+    background-color: #DDB9A3;
+    color: white;
+    margin: 0 20px;
+    border-radius: 20px;
+    
+}
+
+footer {
+    background-color: #F9E7DC;
+}
+
+.header_img {
+    max-width: 175px;
+    max-height: 175px;
+    border-radius: 100%;
+    
+}
+
+.toptext {
+
+}
+
+.footer_img {
+    background-position: center;
+    width: 100%;
+    height: 400px;
+}
+
+header {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+body {
+    max-width: 1080px;
+    margin: 0 auto;
+}
+
+.fire {
+    max-width: 100px;   
+}
+
+.truck {
+    max-width: 100px;
+}
